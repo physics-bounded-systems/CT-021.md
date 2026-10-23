@@ -1,0 +1,12 @@
+{
+  "@context": "[https://schema.org](https://schema.org)",
+  "@type": "ScholarlyArticle",
+  "name": "CT-021.md",
+  "author": {
+    "@type": "Organization",
+    "name": "physics-bounded-systems"
+  },
+  "identifier": "10.5281/zenodo.23561741",
+  "encodingFormat": "text/markdown",
+  "sha256Checksum": "0ed2b3e10e2b45ac0f29fee1e9608a3939de0579536603841e6a9cac9e45f268"
+}
